@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 I'm Diego
+**Engineering Mathematics Student @ Politecnico di Torino**
 
-<!--
-**diegonardo/diegonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sharpening my mathematical and data-analysis skills for quantitative finance. 
+Building a rigorous, skeptical approach to research.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Quantitative Finance & Derivatives Pricing
+- Probability, Statistics & Numerical Methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reproducible Quantitative Research
+- Scientific Computing with Python and C++
+
+
